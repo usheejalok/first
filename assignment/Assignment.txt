@@ -1,44 +1,5 @@
-﻿Let’s improve our Assignment 4 with the help of bootstrap Carousel (Slider). Your output should look like this.
-
-
+create a webpage with a button and a javascript function calculateSquare() should be called when click event occured on that button and display the square of the x = 10 on webpage. Try changing the value of x in console and click button again.
 
 Live version here
 
-In this assignment we more effective assignment 4 with Bootstrap Carousel
-
-step1: Carousel
-	A slideshow component for cycling through elements—images or slides of text—like a 	carousel.
-      
-	
-	How it works
-	
-	The carousel is a slideshow for cycling through a series of content, built with CSS 	3D transforms and a bit of JavaScript. It works with a series of images, text, or 	custom markup. It also includes support for previous/next controls and indicators.
-
-Step2:	Slides only
-	Here’s a carousel with slides only. Note the presence of the .d-block and .w-100 on 	carousel images to prevent browser default image alignment.
-
-	<div class="carousel-inner">
-          <div class="carousel-item active">
-            <img class="d-block w-100" "image path " alt="First slide">
-          </div>
-More about goto link https://getbootstrap.com/docs/4.1/components/carousel/
-
-Step3: With controls
-	Adding in the previous and next controls:
-
-	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-  </ol> 
-
-	Steps : With controls
-	Adding in the previous and next controls
-	https://getbootstrap.com/docs/4.1/components/carousel/
-
-	 previous assignment same 
-
-live Slide Here
-
-http://acadview-webd-assignment6.surge.sh
+http://acadview-webd-assignment7.surge.sh/
